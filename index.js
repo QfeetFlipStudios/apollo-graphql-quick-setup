@@ -2,7 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+
+// your own implementation of client side authentication
 import { AuthProvider } from './context/auth';
+// your own implementation of client side authentication
+
 import * as serviceWorker from './serviceWorker';
 import {BrowserRouter as Router} from "react-router-dom";
 import { ApolloProvider } from '@apollo/react-hooks';
