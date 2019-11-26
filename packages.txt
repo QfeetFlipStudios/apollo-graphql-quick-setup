@@ -1,0 +1,12 @@
+npx create-react-app yourAppName
+ 
+ using Yarn
+ 
+ yarn add graphql @apollo/react-hooks apollo-client apollo-cache-inmemory apollo-link-http apollo-link apollo-link-context apollo-link-error graphql-tag
+ 
+ using npm
+ npm i @apollo/react-hooks apollo-client apollo-cache-inmemory apollo-link-http apollo-link apollo-link-context apollo-link-error graphql-tag
+ 
+ 
+ 
+ 
